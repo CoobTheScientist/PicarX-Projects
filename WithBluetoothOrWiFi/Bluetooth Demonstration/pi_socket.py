@@ -7,7 +7,7 @@ import subprocess
 from picarx import Picarx
 from robot_hat import ADC
 
-server_addr = 'D8:3A:DD:F7:53:E6' #updated to pi's address
+server_addr = '' #updated to pi's Bluetooth mac address
 server_port = 1
 
 buf_size = 1024
