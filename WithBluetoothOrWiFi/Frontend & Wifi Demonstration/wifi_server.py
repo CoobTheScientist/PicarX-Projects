@@ -4,7 +4,7 @@ import subprocess
 from picarx import Picarx
 from robot_hat import ADC
 
-HOST = "192.168.1.21" # IP address of my Raspberry PI
+HOST = " " # IP address of my Raspberry PI
 PORT = 65432          # Port to listen on (non-privileged ports are > 1023)
 
 #Initialize the car, battery, and speed variables
